@@ -31,7 +31,7 @@
 
 ## 1 Git工作流程
 
-![git工作流程](.\resources\git工作流程.svg)
+<img src=".\resources\git工作流程.svg" alt="git工作流程" />
 
 ## 2 基本操作
 
