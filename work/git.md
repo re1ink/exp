@@ -31,7 +31,7 @@
 
 ## 1 Git工作流程
 
-![git工作流程](.\resource\git工作流程.svg)
+![git工作流程](.\resources\git工作流程.svg)
 
 ## 2 基本操作
 
@@ -46,7 +46,7 @@ git init
 
 未暂存在idea里是绿色文件，未跟踪是蓝色文件
 
-<img src=".\resources\git本地仓库操作.png" alt="git工作流程" style="zoom:50%;" />
+<img src=".\resources\git本地仓库操作.png" alt="git本地仓库操作" style="zoom:50%;" />
 
 ```shell
 # 添加所有文件到暂存区
